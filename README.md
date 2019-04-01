@@ -6,4 +6,4 @@ The goal of this project is to build a binary classification model to detect if 
 • Tuned numerous hyperparameters for the models including Naive Bayes, Decision Tree, Random Forest, SVM for best performance using Pipeline and cross-validation.</br>
 • Evaluated the performance of the trained models in the test dataset and selected the final model having both the precision and recall greater than .3.</br>
 
-Check Report.md for the report and poi.py for model tuning code. 
+Check [Report.md](https://github.com/greengreengreen/Enron_POI/blob/master/Report.md) for the report and [poi.py](https://github.com/greengreengreen/Enron_POI/blob/master/poi_id.py) for model tuning code. 
